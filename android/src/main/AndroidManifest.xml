@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.applean.reactnative.activity" >
+    <application
+      android:allowBackup="true">
+        <activity
+            android:name=".RootActivity"
+            android:label="react-native-android-activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="adjustPan"
+         >
+        </activity>
+    </application>
+
+</manifest>

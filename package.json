@@ -1,0 +1,30 @@
+{
+  "name": "react-native-android-activity",
+  "version": "0.0.1",
+  "description": "Android activity library for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "android",
+    "src",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpunion/react-native-android-activity.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "android",
+    "activity"
+  ],
+  "author": "Li Jie <cpunion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpunion/react-native-android-activity/issues"
+  },
+  "homepage": "https://github.com/cpunion/react-native-android-activity#readme"
+}
